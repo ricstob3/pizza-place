@@ -1,0 +1,21 @@
+{
+  "contactInformation": {
+    "address": {
+      "streetName": "Baker Street 15",
+      "postalCode": "702 14",
+      "city": "Örebro, Sweden"
+    },
+    "phone": "+46 19 123 456",
+    "email": "info@pizzaplaceorebro.se",
+    "openingHours": {
+      "weekdays": "11:00 - 22:00",
+      "saturday": "12:00 - 23:00",
+      "sunday": "12:00 - 21:00"
+    },
+    "socialMedia": {
+      "facebook": "facebook.com/PizzaPlaceOrebro",
+      "instagram": "@PizzaPlaceOrebro",
+      "twitter": "@PizzaPlaceORB"
+    }
+  }
+}
