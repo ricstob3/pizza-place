@@ -6,7 +6,7 @@ export default function Pizza({ pizza }) {
         alt={pizza.altText}
         className="rounded-xl hover:scale-105 transition"
       />
-      <p className="text-center text-2xl py-5">{pizza.name}</p>
+      <p className="text-center text-2xl py-5 last:pb-0">{pizza.name}</p>
     </div>
   );
 }

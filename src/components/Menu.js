@@ -6,7 +6,7 @@ export default function Menu() {
     <section
       id="menu"
       aria
-      className="flex justify-center flex-col items-center mb-10"
+      className="flex justify-center flex-col items-center"
       aria-labelledby="menu"
     >
       <h2 className="text-center text-customBrown text-5xl lg:text-6xl font-bold uppercase py-10 font-Oswald">

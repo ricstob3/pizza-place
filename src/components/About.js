@@ -3,7 +3,7 @@ import paragraphs from "../data/paragraphs.json";
 export default function About() {
   return (
     <section id="about" className="mb-10" aria-labelledby="about">
-      <h2 className="text-center text-customBrown text-5xl lg:text-6xl font-bold uppercase pb-10 font-Oswald">
+      <h2 className="text-center text-customBrown text-5xl lg:text-6xl font-bold uppercase py-10 font-Oswald">
         About
       </h2>
       <div className="lg:bg-customOrange lg:p-10 mb-5 lg:skew-x-3 rounded-md">
